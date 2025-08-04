@@ -105,6 +105,7 @@ Open Jupyter notebooks to explore the data and models:
 
 ---
 
-📬 Contact
+## 📬 Contact
+
 For questions or collaboration inquiries, please contact:
 📧 mehrab.mahdian@taltech.ee
